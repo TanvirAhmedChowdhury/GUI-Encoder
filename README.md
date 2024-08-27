@@ -33,7 +33,7 @@
   # Developer
   
   <a href="https://github.com/TanvirAhmedChowdhury/">
-   <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/boy-say-hi-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--hello-logo-saying-young-man-pack-people-icons-7359007.mp4" /> 
+   <img src="https://cdn4.iconfinder.com/data/icons/fun-colorful-academic/700/Student_Icon_-_Illustration-512.png" /> 
    <img width="150px" src=https://github.com/TanvirAhmedChowdhury/ />
   
   </a>
