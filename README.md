@@ -2,9 +2,9 @@
   
   <b># GUI-Encoder </b>
   
-  <b>A Python GUI tool for securely encrypting and compressing Python scripts.</b>
+  <b>A Python GUI tool for securely encrypting and compressing Python scripts.</b> <br>
   
-  # Tutorial
+  # USING Tutorial
   ![1st](https://github.com/user-attachments/assets/bcde1525-c8eb-42c7-9ee2-cbe860ad73b0)
 
   ![2nd](https://github.com/user-attachments/assets/e34ffffd-7a74-4c9c-90f9-c828175bbd01)
