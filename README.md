@@ -41,14 +41,18 @@
   
   **Tanvir Ahmed Chowdhury** - [@TanvirAhmedChowdhury](https://github.com/TanvirAhmedChowdhury/)
    
+
+![binance](https://github.com/user-attachments/assets/0f24fc0e-0d52-43e6-a956-e80c62e972c5)
+
+
   
-  # Support Me
+  ## Support Me
   If you like my work you can support me via :
   
-  <a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-          src="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)" alt="PayPal"
-          width="147"></a> <a href="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)
-" target="_blank"> <kbd> <img src="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)" alt="Buy Me A Coffee" width="200"></a>
+  <a href="https://google.com" target="_blank"> <kbd> <img
+         ![binance](https://github.com/user-attachments/assets/0f24fc0e-0d52-43e6-a956-e80c62e972c5)
+          width="147"></a> <a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EPdXV6DAFtthI3w-d0XUcg.jpeg" target="_blank"> <kbd> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EPdXV6DAFtthI3w-d0XUcg.jpeg" alt="Buy Me A Coffee" width="200"></a>
+  
   
   <hr>
   
