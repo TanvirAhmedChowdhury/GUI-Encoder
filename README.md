@@ -46,8 +46,9 @@
   If you like my work you can support me via :
   
   <a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-          src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-          width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+          src="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)" alt="PayPal"
+          width="147"></a> <a href="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)
+" target="_blank"> <kbd> <img src="![buy coffe](https://github.com/user-attachments/assets/1f9db409-441b-45f2-b64d-77c8ea5edfc4)" alt="Buy Me A Coffee" width="200"></a>
   
   <hr>
   
