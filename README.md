@@ -11,6 +11,9 @@
 
 ![3rd](https://github.com/user-attachments/assets/f14d2561-a2c7-4040-8e45-e8262adcd40d)
 
+  ## NOTE: Please enter the names of all the modules used in your project file, without commas.
+  ## NOTE: The from time import sleep statement is not supported. Please manually write out all from module in Your OUTPUT Script.
+
 ![4th](https://github.com/user-attachments/assets/d34b4933-3300-4dbf-bbdb-9ab7ac215ee3)
 
   ![5th](https://github.com/user-attachments/assets/181a868a-cc86-4b24-b4a6-3500d867a050)
